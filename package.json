@@ -1,0 +1,25 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "just a practice...",
+  "main": "index.js",
+  "scripts": {
+    "test": "tstest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinKano/TS-practice.git"
+  },
+  "author": "ShinKano <yushph@gmail.com> (https://qiita.com/ShinKano)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShinKano/TS-practice/issues"
+  },
+  "homepage": "https://github.com/ShinKano/TS-practice#readme",
+  "dependencies": {
+    "@types/node": "^13.9.1",
+    "save-dev": "0.0.1-security",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
+}
